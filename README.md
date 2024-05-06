@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DF50F2&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Alicia+Abril;Eu+tenho+16+anos+de+idade;eu+sou+de+Monte+Alto,+SP;Sou+estudante+de+programação;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DF50F2&center=true&random=false&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o" alt="Typing SVG" /></a></p>
 <h2><strong>MY SKILLS:</h2>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
